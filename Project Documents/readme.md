@@ -1,15 +1,15 @@
 This folder named "Project Documents" consists of documents of all Five Phases, documentation and demonstration details:
 
-Ideation Phase
+1. Ideation Phase
 
-Requirement Analysis Phase
+2. Requirement Analysis Phase
 
-Project Design Phase
+3. Project Design Phase
 
-Project Planning Phase
+4. Project Planning Phase
 
-Project Development Phase (development & testing)
+5. Project Development Phase (development & testing)
 
-Project Documentation
+6. Project Documentation
 
-Project Demonstration (PDI & demo links)
+7. Project Demonstration (PDI & demo links)
